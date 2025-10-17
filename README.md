@@ -86,7 +86,7 @@ You should see the login page. You can register a new user to get started.
 
 🧪 Alternative Version (Minor Tweaks)
 
-This repository contains two versions of the application. The primary one is in the v1 folder, it had somelogical issues when logging in so an alternative is in the minor_tweaks folder. which addresses all the issues.
+This repository contains two versions of the application. The primary one is in the v1 folder, it had some logical issues when logging in so an alternative is in the minor_tweaks folder. which addresses all the issues.
 
 If you want to try the version with minor tweaks, simply replace the PHP files inside the v1 folder with the corresponding files from the minor_tweaks folder.
 
